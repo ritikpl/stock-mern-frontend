@@ -3,7 +3,7 @@ import Awards from "./Awards";
 import Statics from "./Statics";
 import Pricing from "./Pricing";
 import Education from "./Education";
-import OpenAccount from "../Openaccount";
+import OpenAccount from "../OpenAccount";
 
 const HomePage = () => {
   return (
